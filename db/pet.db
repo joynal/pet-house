@@ -1,0 +1,30 @@
+{"_id":"28giQdcFlmx1yscH","name":"Yundt","age":8,"color":"maroon","breed":"Rice","ownerId":"45lZQXnOz38dJLp7","createdAt":{"$$date":1570944175123},"updatedAt":{"$$date":1570944175123}}
+{"_id":"2eabYdJRPhMMNRUX","name":"Ruecker","age":7,"color":"orchid","breed":"Fritsch","ownerId":"lwdoL7fUYFvuwVHH","createdAt":{"$$date":1570944175124},"updatedAt":{"$$date":1570944175124}}
+{"_id":"3AP71y6Xwyyr2q5a","name":"Stiedemann","age":9,"color":"azure","breed":"Padberg","ownerId":"45lZQXnOz38dJLp7","createdAt":{"$$date":1570944175123},"updatedAt":{"$$date":1570944175123}}
+{"_id":"4H69TSvKgF9SWgoa","name":"Abbott","age":2,"color":"turquoise","breed":"Ankunding","ownerId":"Rmplca4avD8yurgP","createdAt":{"$$date":1570944175123},"updatedAt":{"$$date":1570944175123}}
+{"_id":"4S2AOCNKQ3NaubWb","name":"Nicolas","age":3,"color":"green","breed":"Marquardt","ownerId":"Rmplca4avD8yurgP","createdAt":{"$$date":1570944175123},"updatedAt":{"$$date":1570944175123}}
+{"_id":"5wKOClAu4bE0lP6g","name":"Oberbrunner","age":5,"color":"purple","breed":"Collins","ownerId":"Rmplca4avD8yurgP","createdAt":{"$$date":1570944175123},"updatedAt":{"$$date":1570944175123}}
+{"_id":"9aGhVoW156CnIBlD","name":"Stokes","age":4,"color":"black","breed":"Kovacek","ownerId":"Vl71oE71brSPUCqc","createdAt":{"$$date":1570944175123},"updatedAt":{"$$date":1570944175123}}
+{"_id":"AI0y5m5uR4uJ6LoO","name":"Armstrong","age":1,"color":"orange","breed":"MacGyver","ownerId":"Vl71oE71brSPUCqc","createdAt":{"$$date":1570944175123},"updatedAt":{"$$date":1570944175123}}
+{"_id":"D2Z87TSzUqYiYy9M","name":"Terry","age":7,"color":"gold","breed":"Kshlerin","ownerId":"Vl71oE71brSPUCqc","createdAt":{"$$date":1570944175123},"updatedAt":{"$$date":1570944175123}}
+{"_id":"Ehd8ry9SKghrYoss","name":"Durgan","age":4,"color":"white","breed":"Ebert","ownerId":"WIMMjV39Juwh4mjZ","createdAt":{"$$date":1570944175123},"updatedAt":{"$$date":1570944175123}}
+{"_id":"GXILkqFHhfIXhRlx","name":"Carter","age":8,"color":"ivory","breed":"Kertzmann","ownerId":"WIMMjV39Juwh4mjZ","createdAt":{"$$date":1570944175123},"updatedAt":{"$$date":1570944175123}}
+{"_id":"GyCZ6fZPp9ebRi4i","name":"Rau","age":8,"color":"black","breed":"Fisher","ownerId":"WIMMjV39Juwh4mjZ","createdAt":{"$$date":1570944175123},"updatedAt":{"$$date":1570944175123}}
+{"_id":"H8NdX4VVNuvAzXoa","name":"Gottlieb","age":5,"color":"mint green","breed":"Kuhic","ownerId":"imT1p0oJ3gU0Bo3n","createdAt":{"$$date":1570944175123},"updatedAt":{"$$date":1570944175123}}
+{"_id":"HoUQ7TJqJILvEdQr","name":"Bergnaum","age":1,"color":"orange","breed":"Purdy","ownerId":"imT1p0oJ3gU0Bo3n","createdAt":{"$$date":1570944175123},"updatedAt":{"$$date":1570944175123}}
+{"_id":"I06qEn1sGowoy7qR","name":"Mraz","age":6,"color":"violet","breed":"Harber","ownerId":"imT1p0oJ3gU0Bo3n","createdAt":{"$$date":1570944175123},"updatedAt":{"$$date":1570944175123}}
+{"_id":"JkVbIktQ0V1vxCKR","name":"Bartoletti","age":8,"color":"yellow","breed":"Grady","ownerId":"z4CxyHolWfHmm1tq","createdAt":{"$$date":1570944175124},"updatedAt":{"$$date":1570944175124}}
+{"_id":"KWuNelvtha153csA","name":"White","age":1,"color":"tan","breed":"Williamson","ownerId":"lwdoL7fUYFvuwVHH","createdAt":{"$$date":1570944175124},"updatedAt":{"$$date":1570944175124}}
+{"_id":"NiHroSWMyA1dmH8t","name":"Tillman","age":6,"color":"fuchsia","breed":"Parisian","ownerId":"lwdoL7fUYFvuwVHH","createdAt":{"$$date":1570944175124},"updatedAt":{"$$date":1570944175124}}
+{"_id":"OF9w4OadCOwTRvNF","name":"Marquardt","age":6,"color":"blue","breed":"Weber","ownerId":"qyNmpv1APh0yWbhq","createdAt":{"$$date":1570944175124},"updatedAt":{"$$date":1570944175124}}
+{"_id":"TKmAqJ64sRGlQm5w","name":"Russel","age":2,"color":"green","breed":"Russel","ownerId":"qyNmpv1APh0yWbhq","createdAt":{"$$date":1570944175124},"updatedAt":{"$$date":1570944175124}}
+{"_id":"TyRahyihzMPIIRnS","name":"Legros","age":6,"color":"plum","breed":"Hills","ownerId":"qyNmpv1APh0yWbhq","createdAt":{"$$date":1570944175124},"updatedAt":{"$$date":1570944175124}}
+{"_id":"WXhdphO4jAiAmiqG","name":"Friesen","age":3,"color":"orchid","breed":"Nienow","ownerId":"ucVWG6wTiYeb8fmB","createdAt":{"$$date":1570944175124},"updatedAt":{"$$date":1570944175124}}
+{"_id":"XxWOi3TyDojVzq4E","name":"Koepp","age":8,"color":"plum","breed":"Stracke","ownerId":"ucVWG6wTiYeb8fmB","createdAt":{"$$date":1570944175124},"updatedAt":{"$$date":1570944175124}}
+{"_id":"cLou6aFEPhP0nQTC","name":"Anderson","age":1,"color":"purple","breed":"Kuhlman","ownerId":"ucVWG6wTiYeb8fmB","createdAt":{"$$date":1570944175124},"updatedAt":{"$$date":1570944175124}}
+{"_id":"dmyHi7XtVmC7wcGc","name":"Hessel","age":7,"color":"cyan","breed":"Quitzon","ownerId":"xL7WwOYbHrligynv","createdAt":{"$$date":1570944175124},"updatedAt":{"$$date":1570944175124}}
+{"_id":"fNwMFEV0xXquFzzU","name":"Kuvalis","age":1,"color":"orchid","breed":"Mertz","ownerId":"xL7WwOYbHrligynv","createdAt":{"$$date":1570944175124},"updatedAt":{"$$date":1570944175124}}
+{"_id":"krUN6fbiv8vmZ8kQ","name":"Gislason","age":8,"color":"magenta","breed":"Purdy","ownerId":"xL7WwOYbHrligynv","createdAt":{"$$date":1570944175124},"updatedAt":{"$$date":1570944175124}}
+{"_id":"sTFEfSjqOeoCaQlV","name":"Padberg","age":9,"color":"sky blue","breed":"Feil","ownerId":"z4CxyHolWfHmm1tq","createdAt":{"$$date":1570944175124},"updatedAt":{"$$date":1570944175124}}
+{"_id":"tk4YFFCiK0weXYo4","name":"Hyatt","age":3,"color":"silver","breed":"Effertz","ownerId":"z4CxyHolWfHmm1tq","createdAt":{"$$date":1570944175124},"updatedAt":{"$$date":1570944175124}}
+{"_id":"xCsoKQ9OcIqRqu6V","name":"Feeney","age":3,"color":"maroon","breed":"Jacobi","ownerId":"45lZQXnOz38dJLp7","createdAt":{"$$date":1570944175123},"updatedAt":{"$$date":1570944175123}}

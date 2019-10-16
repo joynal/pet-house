@@ -1,0 +1,6 @@
+version: "2"
+services:
+  pet-house-api:
+    command: npm run start
+    environment:
+      - NODE_ENV=production

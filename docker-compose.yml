@@ -1,0 +1,11 @@
+version: "2"
+services:
+  pet-house-api:
+    build: .
+    volumes:
+      - .:/app
+    expose:
+      - "4000"
+    ports:
+      - "4000:4000"
+

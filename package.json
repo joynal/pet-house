@@ -1,0 +1,41 @@
+{
+  "name": "pet-house",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "PORT=4005 jest",
+    "dev": "nodemon server.js",
+    "deploy": "sh ./deploy.sh",
+    "start": "NODE_ENV=production node server.js",
+    "docker:dev": "docker-compose -f docker-compose.yml -f docker-compose.dev.yml up -d",
+    "docker:prod": "docker-compose -f docker-compose.yml -f docker-compose.prod.yml up -d"
+  },
+  "author": "hi@joynal.dev",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.9.6",
+    "apollo-server-testing": "^2.9.6",
+    "graphql": "^14.5.8",
+    "graphql-scalars": "^1.0.2",
+    "graphql-tools": "^4.0.5",
+    "nedb-promises": "^4.0.0",
+    "winston": "^3.2.1",
+    "winston-daily-rotate-file": "^4.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.5.1",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "jest": "^24.9.0",
+    "nodemon": "^1.19.3"
+  },
+  "jest": {
+    "testPathIgnorePatterns": [
+      "/node_modules/"
+    ]
+  },
+  "engines": {
+    "node": ">=10",
+    "yarn": "*"
+  }
+}

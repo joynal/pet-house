@@ -1,0 +1,6 @@
+version: "2"
+services:
+  pet-house-api:
+    command: npm run dev
+    environment:
+      - NODE_ENV=development
