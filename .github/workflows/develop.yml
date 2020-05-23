@@ -1,0 +1,41 @@
+name: Development CI/CD
+
+on:
+  push:
+    branches:
+      - develop
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v1
+
+      - name: Install Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: "12.x"
+
+      - name: Install npm dependencies
+        run: npm ci
+
+      - name: Run tests
+        run: npm run test
+
+      - name: Deploy to the server
+        uses: appleboy/ssh-action@master
+        with:
+          host: ${{ secrets.DEV_HOST }}
+          port: 22
+          username: ubuntu
+          key: ${{ secrets.DEV_SERVER_KEY }}
+          script: |
+            cd /home/ubuntu/apps/api
+            git pull origin develop
+            export NVM_DIR="$HOME/.nvm"
+            [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+            npm i --production
+            pm2 reload 0
+            pm2 ls
+          script_stop: true
