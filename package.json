@@ -13,8 +13,8 @@
   "author": "hi@joynal.dev",
   "license": "MIT",
   "dependencies": {
-    "apollo-server": "^2.13.1",
-    "apollo-server-testing": "^2.13.1",
+    "apollo-server": "^2.15.0",
+    "apollo-server-testing": "^2.15.0",
     "graphql": "^15.0.0",
     "graphql-scalars": "^1.1.2",
     "graphql-tools": "^6.0.0",
