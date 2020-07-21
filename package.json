@@ -8,7 +8,9 @@
     "deploy": "sh ./deploy.sh",
     "start": "NODE_ENV=production node server.js",
     "docker:dev": "docker-compose -f docker-compose.yml -f docker-compose.dev.yml up -d",
-    "docker:prod": "docker-compose -f docker-compose.yml -f docker-compose.prod.yml up -d"
+    "docker:prod": "docker-compose -f docker-compose.yml -f docker-compose.prod.yml up -d",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "author": "hi@joynal.dev",
   "license": "MIT",
@@ -17,10 +19,11 @@
     "apollo-server-testing": "^2.13.1",
     "graphql": "^15.0.0",
     "graphql-scalars": "^1.1.2",
-    "graphql-tools": "^6.0.0",
+    "graphql-tools": "^6.0.13",
     "nedb-promises": "^4.0.3",
     "winston": "^3.2.1",
-    "winston-daily-rotate-file": "^4.4.2"
+    "winston-daily-rotate-file": "^4.4.2",
+    "snyk": "^1.363.0"
   },
   "devDependencies": {
     "eslint": "^7.1.0",
@@ -37,5 +40,6 @@
   "engines": {
     "node": ">=10",
     "yarn": "*"
-  }
+  },
+  "snyk": true
 }
